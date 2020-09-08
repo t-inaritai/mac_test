@@ -2,4 +2,4 @@ Gitの練習用です
 追記しました。
 /git status
 /git diff
-
+git diff
